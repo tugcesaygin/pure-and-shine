@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AB4C4EF3-39F0-46DC-990F-FA1484204867"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AFE1346-0FFA-4D3D-A3CF-40D948B43C2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PureAndShine/Views/Welcome/WelcomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "WelcomeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9AFE1346-0FFA-4D3D-A3CF-40D948B43C2F - 3215038bd7fa8912"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.WelcomeViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PureAndShine.WelcomeViewController"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Welcome/WelcomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "9AFE1346-0FFA-4D3D-A3CF-40D948B43C2F - c5c4e96227323277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.WelcomeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PureAndShine.WelcomeViewController"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Welcome/WelcomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "9AFE1346-0FFA-4D3D-A3CF-40D948B43C2F - 76e123a2610e029"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.WelcomeViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PureAndShine.WelcomeViewController&gt;"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Welcome/WelcomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9AFE1346-0FFA-4D3D-A3CF-40D948B43C2F - a226aec7c91964a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.WelcomeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PureAndShine.WelcomeViewController&gt;"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Welcome/WelcomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "9AFE1346-0FFA-4D3D-A3CF-40D948B43C2F - b245492faaea5ebd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.WelcomeViewController.__deallocating_deinit"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Welcome/WelcomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79950D2C-CE23-4AFD-990B-8DE736B21E2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PureAndShine/Views/Welcome/WelcomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "scanPageButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87494509-DAF5-4B2A-B233-DA3AA0880592"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PureAndShine/Views/Face Scan/ScanViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ScanViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PureAndShine/Views/Face Scan/ScanViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ScanViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - e69a31de96305e0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PureAndShine.ScanViewController"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - 56af2d3a8fbad8a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PureAndShine.ScanViewController"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - 154232bce4d34049"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PureAndShine.ScanViewController&gt;"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - 7b51e74ad0dda5af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PureAndShine.ScanViewController&gt;"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - 621763d3dbe649cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.__deallocating_deinit"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - 56af2d3a8fbad8a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PureAndShine.ScanViewController"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - 7b51e74ad0dda5af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PureAndShine.ScanViewController&gt;"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - 56af2d3a8fbad845"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PureAndShine.ScanViewController"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - 7b51e74ad0dda54e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PureAndShine.ScanViewController&gt;"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - 56af2d3a8fbad845"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PureAndShine.ScanViewController"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "E23D4761-DBFB-4FBA-95FF-43693042B3CF - 7b51e74ad0dda54e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureAndShine.ScanViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PureAndShine.ScanViewController&gt;"
+                  moduleName = "PureAndShine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tugcesaygin/Desktop/PureAndShine/PureAndShine/Views/Face%20Scan/ScanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

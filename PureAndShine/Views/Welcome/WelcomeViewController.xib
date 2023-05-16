@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21678"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="WelcomeViewController" customModule="PureAndShine" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="welcomeImage" destination="Ls2-YL-EgH" id="1WZ-5k-Lcr"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="248" verticalCompressionResistancePriority="752" text="Hoşgeldin," textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cbu-2S-uFK">
+                    <rect key="frame" x="43" y="539.33333333333337" width="188" height="37"/>
+                    <fontDescription key="fontDescription" name="STIXTwoText-Italic" family="STIX Two Text" pointSize="37"/>
+                    <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Binlerce cilt bakım ürününe erişebilir , içeriklerini öğrenebilir hatta Yapay Zeka ile cilt tipine uygun ürüne ulaşabilirsin!" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="UZU-B3-g3L">
+                    <rect key="frame" x="43" y="587.33333333333337" width="318" height="52.666666666666629"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Rvf-ZP-zIU">
+                    <rect key="frame" x="247" y="672" width="114" height="35"/>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" title="Kayıt Ol" cornerStyle="capsule">
+                        <backgroundConfiguration key="background">
+                            <color key="backgroundColor" red="0.55947066329999995" green="0.94901960780000005" blue="0.2260310374" alpha="0.77549088830000001" colorSpace="custom" customColorSpace="sRGB"/>
+                        </backgroundConfiguration>
+                        <color key="baseForegroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </buttonConfiguration>
+                    <connections>
+                        <action selector="registerButton:" destination="-1" eventType="touchUpInside" id="LS5-AB-bLK"/>
+                    </connections>
+                </button>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="welcome-image" translatesAutoresizingMaskIntoConstraints="NO" id="Ls2-YL-EgH">
+                    <rect key="frame" x="0.0" y="0.0" width="393" height="507"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="507" id="AOZ-Ej-Wfb"/>
+                    </constraints>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cLv-fj-5Ge">
+                    <rect key="frame" x="43" y="672" width="120" height="35"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="120" id="6fJ-aB-HHZ"/>
+                    </constraints>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" title="Giriş" cornerStyle="capsule">
+                        <backgroundConfiguration key="background">
+                            <color key="backgroundColor" red="0.55947066329999995" green="0.94901960780000005" blue="0.2260310374" alpha="0.77549088830000001" colorSpace="custom" customColorSpace="sRGB"/>
+                        </backgroundConfiguration>
+                        <color key="baseForegroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </buttonConfiguration>
+                    <connections>
+                        <action selector="loginButton:" destination="-1" eventType="touchUpInside" id="sUL-pF-jFX"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RY0-Ul-t3x">
+                    <rect key="frame" x="43" y="729" width="318" height="35"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="318" id="Lk5-AX-eYg"/>
+                    </constraints>
+                    <state key="normal" title="Button"/>
+                    <buttonConfiguration key="configuration" style="plain" title="Üye olmadan devam et!" cornerStyle="capsule">
+                        <backgroundConfiguration key="background">
+                            <color key="backgroundColor" red="0.89019607840000003" green="0.87450980389999999" blue="0.99215686270000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </backgroundConfiguration>
+                        <color key="baseForegroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </buttonConfiguration>
+                    <connections>
+                        <action selector="scanPageButton:" destination="-1" eventType="touchUpInside" id="vOR-cR-P7U"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="qwH-Ry-CnF"/>
+            <color key="backgroundColor" red="0.92549019607843142" green="0.94901960784313721" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color key="tintColor" systemColor="tintColor"/>
+            <constraints>
+                <constraint firstItem="RY0-Ul-t3x" firstAttribute="top" secondItem="cLv-fj-5Ge" secondAttribute="bottom" constant="22" id="3Kq-H9-Rxy"/>
+                <constraint firstItem="Ls2-YL-EgH" firstAttribute="leading" secondItem="qwH-Ry-CnF" secondAttribute="leading" id="4tc-eh-zdx"/>
+                <constraint firstAttribute="trailing" secondItem="cbu-2S-uFK" secondAttribute="trailing" constant="162" id="50h-DF-Kfr"/>
+                <constraint firstAttribute="trailing" secondItem="Ls2-YL-EgH" secondAttribute="trailing" id="9Y7-Uz-MSq"/>
+                <constraint firstItem="qwH-Ry-CnF" firstAttribute="bottom" secondItem="Rvf-ZP-zIU" secondAttribute="bottom" constant="111" id="JgR-3X-ghK"/>
+                <constraint firstItem="RY0-Ul-t3x" firstAttribute="leading" secondItem="qwH-Ry-CnF" secondAttribute="leading" constant="43" id="Kis-JB-zv1"/>
+                <constraint firstItem="Rvf-ZP-zIU" firstAttribute="leading" secondItem="cLv-fj-5Ge" secondAttribute="trailing" constant="84" id="Lql-1G-tGr"/>
+                <constraint firstAttribute="trailing" secondItem="UZU-B3-g3L" secondAttribute="trailing" constant="32" id="QsW-5P-GwA"/>
+                <constraint firstItem="qwH-Ry-CnF" firstAttribute="bottom" secondItem="RY0-Ul-t3x" secondAttribute="bottom" constant="54" id="QvC-Fb-rMQ"/>
+                <constraint firstItem="qwH-Ry-CnF" firstAttribute="trailing" secondItem="Rvf-ZP-zIU" secondAttribute="trailing" constant="32" id="RTg-C4-oRW"/>
+                <constraint firstItem="cbu-2S-uFK" firstAttribute="top" secondItem="Ls2-YL-EgH" secondAttribute="bottom" constant="32.333333333333371" id="TfF-Um-fAr"/>
+                <constraint firstItem="cbu-2S-uFK" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="43" id="WjJ-TI-23X"/>
+                <constraint firstItem="UZU-B3-g3L" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="43" id="bRF-Kl-uPP"/>
+                <constraint firstItem="Rvf-ZP-zIU" firstAttribute="top" secondItem="UZU-B3-g3L" secondAttribute="bottom" constant="32" id="cSj-b8-oYH"/>
+                <constraint firstItem="UZU-B3-g3L" firstAttribute="top" secondItem="cbu-2S-uFK" secondAttribute="bottom" constant="11" id="dzQ-Ur-kqz"/>
+                <constraint firstItem="cLv-fj-5Ge" firstAttribute="baseline" secondItem="Rvf-ZP-zIU" secondAttribute="baseline" id="gFA-i0-9fH"/>
+                <constraint firstItem="RY0-Ul-t3x" firstAttribute="top" secondItem="Rvf-ZP-zIU" secondAttribute="bottom" constant="22" id="ou5-VV-rk9"/>
+                <constraint firstItem="cLv-fj-5Ge" firstAttribute="leading" secondItem="UZU-B3-g3L" secondAttribute="leading" id="u7u-F7-noq"/>
+                <constraint firstItem="qwH-Ry-CnF" firstAttribute="trailing" secondItem="RY0-Ul-t3x" secondAttribute="trailing" constant="32" id="wGz-fc-PHv"/>
+            </constraints>
+            <point key="canvasLocation" x="127.48091603053435" y="-11.267605633802818"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="welcome-image" width="2624" height="3936"/>
+        <systemColor name="tintColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
